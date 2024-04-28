@@ -45,11 +45,7 @@ npm run test
 👤 **Ritu raj sharma**
 
 - GitHub: [@Riturajsharma707](https://github.com/Riturajsharma707)
-- LinkedIn: [@Ritu Raj Sharma](https://linkedin.com/in/Ritu Raj Sharma)
-
-## 🤝 Contributing
-
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/kefranabg/readme-md-generator/issues). You can also take a look at the [contributing guide](https://github.com/kefranabg/readme-md-generator/blob/master/CONTRIBUTING.md).
+- LinkedIn: [@Ritu Raj Sharma](https://linkedin.com/in/ritu-raj-sharma-09aba3149)
 
 ## Show your support
 
@@ -57,4 +53,4 @@ Give a ⭐️ if this project helped you!
 
 ---
 
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
+\_This README was generated with ❤️ by [readme-md-generator]
