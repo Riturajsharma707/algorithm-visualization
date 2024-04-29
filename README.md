@@ -15,7 +15,7 @@
 
 > Algorithm-Visualizer is a project aimed to providing an interactive platform fo visualizing variou algorithms in action. It typically involves implementing alogrithms such as sorting, searchin, and pathfinding.
 
-### 🏠 [Homepage](https://github.com/kefranabg/readme-md-generator#readme)
+### 🏠 [Homepage](https://github.com/Riturajsharma707)
 
 ## Prerequisites
 
